@@ -4,3 +4,6 @@
 [submodule "opensbi"]
 	path = opensbi
 	url = https://github.com/riscv-software-src/opensbi.git
+[submodule "my_custom_linux"]
+	path = my_custom_linux
+	url = git@github.com:acerols/my_custom_linux.git
